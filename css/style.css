@@ -1,0 +1,33 @@
+html{
+    background-color:antiquewhite;
+}
+.h1class{
+    background-color: aquamarine;
+}
+.h2class{
+    background-color: lightpink;
+}
+.pfirst{
+    background-color: darkgrey;
+}
+.psecond{
+    background-color: lightblue;
+}
+.olclass{
+    background-color: beige;
+}
+#first{
+    color: red;
+}
+#second{
+    color:darkgoldenrod;
+}
+#third{
+    color: rgb(169, 41, 131);
+}
+#fourth{
+    color: lime;
+}
+#fifth{
+    color:slateblue
+}
